@@ -1,0 +1,548 @@
+[{
+        "id": 0,
+        "category": "Math",
+        "question": "72 + 14",
+        "answers": ["88", "128", "86"],
+        "correctAnswer": "86"
+    },
+    {
+        "id": 1,
+        "category": "Math",
+        "question": "352 + 34",
+        "answers": ["213", "306", "208"],
+        "correctAnswer": "386"
+    },
+    {
+        "id": 2,
+        "category": "Math",
+        "question": "12 + 13",
+        "answers": ["22", "25", "26"],
+        "correctAnswer": "25"
+    },
+    {
+        "id": 3,
+        "category": "Math",
+        "question": "72 - 14",
+        "answers": ["63", "58", "76"],
+        "correctAnswer": "58"
+    },
+    {
+        "id": 4,
+        "category": "Math",
+        "question": "252 - 44",
+        "answers": ["213", "204", "208"],
+        "correctAnswer": "208"
+    },
+    {
+        "id": 5,
+        "category": "Math",
+        "question": "25 * 25",
+        "answers": ["255", "525", "625"],
+        "correctAnswer": "625"
+    },
+    {
+        "id": 6,
+        "category": "Math",
+        "question": "8 x 5",
+        "answers": ["40", "35", "29"],
+        "correctAnswer": "40"
+    },
+    {
+        "id": 7,
+        "category": "Math",
+        "question": "45 x 5",
+        "answers": ["245", "225", "250"],
+        "correctAnswer": "225"
+    },
+    {
+        "id": 8,
+        "category": "Math",
+        "question": "800 x 5",
+        "answers": ["4000", "350", "2009"],
+        "correctAnswer": "4000"
+    },
+    {
+        "id": 9,
+        "category": "Math",
+        "question": "52 / 4",
+        "answers": ["13", "14", "12"],
+        "correctAnswer": "13"
+    },
+
+    {
+        "id": 10,
+        "category": "Math",
+        "question": "252 - 44",
+        "answers": ["213", "204", "208"],
+        "correctAnswer": "208"
+    },
+    {
+        "id": 11,
+        "category": "Math",
+        "question": "25 * 25",
+        "answers": ["255", "525", "625"],
+        "correctAnswer": "625"
+    },
+
+
+
+
+    {
+        "id": 12,
+        "category": "Math",
+        "question": "66 / 6",
+        "answers": ["100", "106", "11"],
+        "correctAnswer": "11"
+    },
+    {
+        "id": 13,
+        "category": "Math",
+        "question": "99 / 3",
+        "answers": ["3", "14", "12"],
+        "correctAnswer": "3"
+    },
+
+    {
+        "id": 14,
+        "category": "History",
+        "question": "First man on the moon",
+        "answers": ["1968", "1969", "1970"],
+        "correctAnswer": "1969"
+    },
+    {
+        "id": 15,
+        "category": "History",
+        "question": "Colombus discovers America",
+        "answers": ["1492", "1494", "1501"],
+        "correctAnswer": "1492"
+    },
+    {
+        "id": 16,
+        "category": "History",
+        "question": "Civil War ended",
+        "answers": ["1492", "1865", "1501"],
+        "correctAnswer": "1865"
+    },
+
+
+    {
+        "id": 17,
+        "category": "History",
+        "question": "Declaration of Independence was signed in 1776",
+        "answers": ["1492", "1825", "1777"],
+        "correctAnswer": "1776"
+    },
+    {
+        "id": 18,
+        "category": "History",
+        "question": "The Declaration of Independence established the ideals of the country",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+
+
+
+
+    {
+        "id": 19,
+        "category": "Government",
+        "question": "There are Local, State, and Federal laws",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 20,
+        "category": "Government",
+        "question": "There are Fifty-One States",
+        "answers": ["Yes", "No 50 states", "Maybe"],
+        "correctAnswer": "No 50 states"
+    },
+    {
+        "id": 21,
+        "category": "Government",
+        "question": "The President is not the Commander and Chief over the armed forces",
+        "answers": ["Yes", "No, presides over Armed Forces", "Maybe"],
+        "correctAnswer": "No, presides over Armed Forces"
+    },
+    {
+        "id": 22,
+        "category": "Government",
+        "question": "The President is the Chief Executive, Commander in Chief, Chief Diplomat, and Chief Legislator",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+
+    {
+        "id": 23,
+        "category": "Government",
+        "question": "The President has the right to do anything",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "No"
+    },
+    {
+        "id": 24,
+        "category": "Government",
+        "question": "The President has the right to do anything",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "No"
+    },
+
+
+    {
+        "id": 25,
+        "category": "Government",
+        "question": "The President appoints the heads all the federal commissions,",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 26,
+        "category": "Government",
+        "question": "  President Joseph R. Biden is the 46th President of the United States.   ",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 27,
+        "category": "Government",
+        "question": "  The US dollar is the most important currency  ",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 28,
+        "category": "Government",
+        "question": "  There are how many countries on earth  ",
+        "answers": ["175", "195", "225"],
+        "correctAnswer": "195"
+    },
+
+    {
+        "id": 29,
+        "category": "Movie",
+        "question": "Oscars won by Forrest Gump",
+        "answers": ["4", "5", "6"],
+        "correctAnswer": "6"
+    },
+    {
+        "id": 30,
+        "category": "Movie",
+        "question": "Oscars won by Tom Hanks",
+        "answers": ["1", "2", "3"],
+        "correctAnswer": "2"
+    },
+    {
+        "id": 31,
+        "category": "Movie",
+        "question": "First Star Wars movie year",
+        "answers": ["1977", "1979", "1981"],
+        "correctAnswer": "1977"
+    },
+    {
+        "id": 32,
+        "category": "Movie",
+        "question": "First Diasaur movie made - Jurassic Park",
+        "answers": ["1977", "1993", "1981"],
+        "correctAnswer": "1993"
+    },
+    {
+        "id": 33,
+        "category": "Movie",
+        "question": "Was Harrison Ford a genius",
+        "answers": ["Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+
+
+
+
+    {
+        "id": 34,
+        "category": "Cars",
+        "question": "The Japanese build twice as many cars in U.S. ",
+        "answers": ["Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+
+
+    {
+        "id": 35,
+        "category": "Cars",
+        "question": "The Germans build 8%, 10% or 20% of cars in U.S. ",
+        "answers": ["8%", "10%", "20%"],
+        "correctAnswer": "8%"
+    },
+
+
+    {
+        "id": 36,
+        "category": "Cars",
+        "question": "When were the first, Corvette, Thunderbird, sold",
+        "answers": ["1953, 54", "1947, 48", "1981, 82"],
+        "correctAnswer": "1953, 54"
+    },
+    {
+        "id": 37,
+        "category": "Cars",
+        "question": "When was the first, Camaro, Mustang, sold",
+        "answers": ["1966, 64", "1947, 48", "1981, 82"],
+        "correctAnswer": "1966, 64"
+    },
+
+    {
+        "id": 38,
+        "category": "Cars",
+        "question": "When was the first, Chrysler Challenger made",
+        "answers": ["1953", "1967", "1981"],
+        "correctAnswer": "1967"
+    },
+
+
+    {
+        "id": 39,
+        "category": "Cars",
+        "question": "What is a Chrysler Six Pack",
+        "answers": ["Beer", "Three Two Barrels", "Two Three Barrels"],
+        "correctAnswer": "TGhree Two Barrels"
+    },
+
+    {
+        "id": 40,
+        "category": "Cars",
+        "question": "When was the first, Chrysler Hemi Engine made",
+        "answers": ["1953", "1967", "1981"],
+        "correctAnswer": "1967"
+    },
+    {
+        "id": 41,
+        "category": "Cars",
+        "question": "When was the first rear engine, VW Beetle made",
+        "answers": ["1953", "1967", "1981"],
+        "correctAnswer": "1967"
+    },
+    {
+        "id": 42,
+        "category": "Cars",
+        "question": "When was the first rear engine, Cheverolet Corvette made",
+        "answers": ["1953", "1967", "2020"],
+        "correctAnswer": "2020"
+    },
+
+    {
+        "id": 43,
+        "category": "Cars",
+        "question": "Dodge made the Viper in what year",
+        "answers": ["1953", "1991", "2020"],
+        "correctAnswer": "1991"
+    },
+
+
+
+
+
+
+
+    {
+        "id": 44,
+        "category": "Cars",
+        "question": "When are engine headers",
+        "answers": ["Pained Pipes", "Equal Length Tubes", "Tuned Exhaust", "All"],
+        "correctAnswer": "All"
+    },
+
+    {
+        "id": 45,
+        "category": "Science",
+        "question": "The First Computer Operating System was Unix",
+        "answers": ["Maybe", "Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 46,
+        "category": "Science",
+        "question": "Was C language, 1972, the first high-level language?",
+        "answers": ["Maybe", "Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+
+
+    {
+        "id": 47,
+        "category": "Science",
+        "question": "The first version Microsoft windows Operating system was released in 1985?",
+        "answers": ["Maybe", "Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+
+
+    {
+        "id": 48,
+        "category": "Science",
+        "question": "The Microsoft Windows Operating System NT, New Technology, before Windows 95?",
+        "answers": ["Maybe", "Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+
+    {
+        "id": 49,
+        "category": "Science",
+        "question": "When did we first walk on the Moon",
+        "answers": ["1953", "1967", "2020"],
+        "correctAnswer": "1967"
+    },
+    {
+        "id": 50,
+        "category": "Science",
+        "question": "Thomas Edison made how many inventions",
+        "answers": ["thirty-five", "Fifty-two", "One Hundred", "Eleven Hundred"],
+        "correctAnswer": "Eleven Hundred"
+    },
+
+    {
+        "id": 51,
+        "category": "Science",
+        "question": "Did Nokola Tesla invented what ?",
+        "answers": ["Tesla Coil", "Radio", "Fluorescent lights", "Motors", "All"],
+        "correctAnswer": "All"
+    },
+    {
+        "id": 52,
+        "category": "Science",
+        "question": "Are Solar energy and Climate Change important",
+        "answers": ["Maybe", "Yes", "No"],
+        "correctAnswer": "Yes"
+    },
+
+
+    {
+        "id": 53,
+        "category": "Science",
+        "question": "What is the frequency of the A note",
+        "answers": ["213", "344", "440"],
+        "correctAnswer": "440"
+    },
+
+    {
+        "id": 54,
+        "category": "Science",
+        "question": "What is one octave about A note",
+        "answers": ["800", "344", "880"],
+        "correctAnswer": "880"
+    },
+    {
+        "id": 55,
+        "category": "Science",
+        "question": "The Earth is 75% water, 25% land",
+        "answers": ["The Earth is 75% water"],
+        "correctAnswer": "Oxygen and Hydrogen"
+    },
+
+    {
+        "id": 56,
+        "category": "Science",
+        "question": "The Earth is how old, in billions of years",
+        "answers": ["2", "6", "3.8"],
+        "correctAnswer": "3.8"
+    },
+
+    {
+        "id": 57,
+        "category": "Science",
+        "question": "Is time travel possible?",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "No"
+    },
+
+
+    {
+        "id": 58,
+        "category": "Science",
+        "question": "Do we small with our Nose or Brain?",
+        "answers": ["Both", "Brain", "Nose"],
+        "correctAnswer": "Both"
+    },
+
+    {
+        "id": 59,
+        "category": "Science",
+        "question": "Water is what chemical gasses",
+        "answers": ["Oxygen and Argon", "Nitrogen and Oxygen", "Oxygen and Hydrogen"],
+        "correctAnswer": "Oxygen and Hydrogen"
+    },
+
+    {
+        "id": 60,
+        "category": "Science",
+        "question": "How long can we live without water, in days",
+        "answers": ["3", "4", "6"],
+        "correctAnswer": "3"
+    },
+
+    {
+        "id": 61,
+        "category": "Science",
+        "question": "Because of 2020 batteries, we have telephone, camera, and more in your pocket!",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 62,
+        "category": "Science",
+        "question": "Because of 2020 batteries, we have zero emission cars, you charge for driving!",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+
+    {
+        "id": 63,
+        "category": "Science",
+        "question": "With Artificial Intellicengce, AI, your phone listens!",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+
+    {
+        "id": 64,
+        "category": "Science",
+        "question": "With, AI, your phone has Voice Recognition and Voice Sythensis!",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+
+    {
+        "id": 65,
+        "category": "Science",
+        "question": "Because of technology your life is better!",
+        "answers": ["Yes", "No", "Maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 66,
+        "category": "Science",
+        "question": "How long can we live without air, in minutes",
+        "answers": ["3", "4", "6"],
+        "correctAnswer": "3"
+    },
+
+    {
+        "id": 67,
+        "category": "Affirms",
+        "question": "Be led by your dreams or the bible",
+        "answers": ["because", "mom said", "dreams"],
+        "correctAnswer": "dreams"
+    },
+    {
+        "id": 68,
+        "category": "Affirms",
+        "question": "Self reliance is good",
+        "answers": ["Yes", "No", "maybe"],
+        "correctAnswer": "Yes"
+    },
+    {
+        "id": 69,
+        "category": "Affirms",
+        "question": "Be the responsible for your life goals",
+        "answers": ["Yes", "No", "maybe"],
+        "correctAnswer": "Yes"
+    }
+]

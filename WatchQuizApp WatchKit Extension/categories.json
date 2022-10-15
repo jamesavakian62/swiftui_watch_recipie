@@ -1,0 +1,37 @@
+[
+    {
+        "title"     : "Math",
+        "color"     : "#FFABCD",
+        "questions" : []
+    },
+    {
+        "title"     : "History",
+        "color"     : "#00FF00",
+        "questions" : []
+    },
+    {
+        "title"     : "Government",
+        "color"     : "#33FF00",
+        "questions" : []
+    },    {
+        "title"     : "Movie",
+        "color"     : "#0000FF",
+        "questions" : []
+    },
+    {
+        "title"     : "Cars",
+        "color"     : "#0099FF",
+        "questions" : []
+    },
+    
+    {
+        "title"     : "Science",
+        "color"     : "#8899FF",
+        "questions" : []
+    },
+    
+    {
+        "title"     : "Affirms",
+        "color"     : "#119900",
+        "questions" : []
+    }]
